@@ -37,7 +37,7 @@ class env
  
   } else
 {
-  print("--khatm ho gaya---katha mudinjithu---rat is busted ---:-|<>" );
+  print("--rat is busted ---:-|<>" );
   
 }
 
