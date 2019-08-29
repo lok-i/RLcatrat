@@ -13,3 +13,13 @@ Physical Implications:
 ----------------------
 ->Self adapting robots can be deployed in space exploration,Hazard prone areas, where we humuns with our limited knowledge about the environment are not able to pre determie the circumstances that might arise.
 ->Self learning algorythms like this when implemented in cyber physical system hold the potential to accelerate the process of our experimentation and learning in various fields.
+
+Work done:
+----------
+The uploaded environment is a rough implementation of the environment and is designed to closely resemble real world robot cart control as we have an idea to implement in Real world aswell.
+
+Work in progress:
+-----------------
+->Experimentation is done on the platforms to use to closely resemble the real life conditions like comunication over head.
+->Algorithmic experimentation is also Done by training the agent with different algorithms and are being validated and scored.
+Full project source is coming soon.....
