@@ -1,4 +1,4 @@
-Reinforccement Learning in trajectory planing:
+Reinforcement Learning in trajectory planing:
 ----------------------------------------------
 
 Reinforcement Learning is a branch of machine learning that has got the potential to adapt to robust conditions given just a reward signal and state ,action spaces.Without any predetermind parameters or data about the environment a RL agent can adapt to drastic conditions by collecting expeience and trianing in it.In the below project I am trying to use it for trajectory planing of an agent in a custom built environment.
